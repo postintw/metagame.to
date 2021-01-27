@@ -1,0 +1,222 @@
+div {
+  margin: auto;
+  position: relative;
+  width: 30vw;
+  height: 70vh; }
+  div::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url(https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1877625006,2341162086&fm=26&gp=0.jpg) no-repeat;
+    background-size: cover;
+    z-index: 1;
+    animation: maskRotate 1.2s linear; }
+
+@keyframes maskRotate {
+  0% {
+    mask: conic-gradient(#000 -8%, transparent 0%, transparent); }
+  1% {
+    mask: conic-gradient(#000 -7%, transparent 1%, transparent); }
+  2% {
+    mask: conic-gradient(#000 -6%, transparent 2%, transparent); }
+  3% {
+    mask: conic-gradient(#000 -5%, transparent 3%, transparent); }
+  4% {
+    mask: conic-gradient(#000 -4%, transparent 4%, transparent); }
+  5% {
+    mask: conic-gradient(#000 -3%, transparent 5%, transparent); }
+  6% {
+    mask: conic-gradient(#000 -2%, transparent 6%, transparent); }
+  7% {
+    mask: conic-gradient(#000 -1%, transparent 7%, transparent); }
+  8% {
+    mask: conic-gradient(#000 0%, transparent 8%, transparent); }
+  9% {
+    mask: conic-gradient(#000 1%, transparent 9%, transparent); }
+  10% {
+    mask: conic-gradient(#000 2%, transparent 10%, transparent); }
+  11% {
+    mask: conic-gradient(#000 3%, transparent 11%, transparent); }
+  12% {
+    mask: conic-gradient(#000 4%, transparent 12%, transparent); }
+  13% {
+    mask: conic-gradient(#000 5%, transparent 13%, transparent); }
+  14% {
+    mask: conic-gradient(#000 6%, transparent 14%, transparent); }
+  15% {
+    mask: conic-gradient(#000 7%, transparent 15%, transparent); }
+  16% {
+    mask: conic-gradient(#000 8%, transparent 16%, transparent); }
+  17% {
+    mask: conic-gradient(#000 9%, transparent 17%, transparent); }
+  18% {
+    mask: conic-gradient(#000 10%, transparent 18%, transparent); }
+  19% {
+    mask: conic-gradient(#000 11%, transparent 19%, transparent); }
+  20% {
+    mask: conic-gradient(#000 12%, transparent 20%, transparent); }
+  21% {
+    mask: conic-gradient(#000 13%, transparent 21%, transparent); }
+  22% {
+    mask: conic-gradient(#000 14%, transparent 22%, transparent); }
+  23% {
+    mask: conic-gradient(#000 15%, transparent 23%, transparent); }
+  24% {
+    mask: conic-gradient(#000 16%, transparent 24%, transparent); }
+  25% {
+    mask: conic-gradient(#000 17%, transparent 25%, transparent); }
+  26% {
+    mask: conic-gradient(#000 18%, transparent 26%, transparent); }
+  27% {
+    mask: conic-gradient(#000 19%, transparent 27%, transparent); }
+  28% {
+    mask: conic-gradient(#000 20%, transparent 28%, transparent); }
+  29% {
+    mask: conic-gradient(#000 21%, transparent 29%, transparent); }
+  30% {
+    mask: conic-gradient(#000 22%, transparent 30%, transparent); }
+  31% {
+    mask: conic-gradient(#000 23%, transparent 31%, transparent); }
+  32% {
+    mask: conic-gradient(#000 24%, transparent 32%, transparent); }
+  33% {
+    mask: conic-gradient(#000 25%, transparent 33%, transparent); }
+  34% {
+    mask: conic-gradient(#000 26%, transparent 34%, transparent); }
+  35% {
+    mask: conic-gradient(#000 27%, transparent 35%, transparent); }
+  36% {
+    mask: conic-gradient(#000 28%, transparent 36%, transparent); }
+  37% {
+    mask: conic-gradient(#000 29%, transparent 37%, transparent); }
+  38% {
+    mask: conic-gradient(#000 30%, transparent 38%, transparent); }
+  39% {
+    mask: conic-gradient(#000 31%, transparent 39%, transparent); }
+  40% {
+    mask: conic-gradient(#000 32%, transparent 40%, transparent); }
+  41% {
+    mask: conic-gradient(#000 33%, transparent 41%, transparent); }
+  42% {
+    mask: conic-gradient(#000 34%, transparent 42%, transparent); }
+  43% {
+    mask: conic-gradient(#000 35%, transparent 43%, transparent); }
+  44% {
+    mask: conic-gradient(#000 36%, transparent 44%, transparent); }
+  45% {
+    mask: conic-gradient(#000 37%, transparent 45%, transparent); }
+  46% {
+    mask: conic-gradient(#000 38%, transparent 46%, transparent); }
+  47% {
+    mask: conic-gradient(#000 39%, transparent 47%, transparent); }
+  48% {
+    mask: conic-gradient(#000 40%, transparent 48%, transparent); }
+  49% {
+    mask: conic-gradient(#000 41%, transparent 49%, transparent); }
+  50% {
+    mask: conic-gradient(#000 42%, transparent 50%, transparent); }
+  51% {
+    mask: conic-gradient(#000 43%, transparent 51%, transparent); }
+  52% {
+    mask: conic-gradient(#000 44%, transparent 52%, transparent); }
+  53% {
+    mask: conic-gradient(#000 45%, transparent 53%, transparent); }
+  54% {
+    mask: conic-gradient(#000 46%, transparent 54%, transparent); }
+  55% {
+    mask: conic-gradient(#000 47%, transparent 55%, transparent); }
+  56% {
+    mask: conic-gradient(#000 48%, transparent 56%, transparent); }
+  57% {
+    mask: conic-gradient(#000 49%, transparent 57%, transparent); }
+  58% {
+    mask: conic-gradient(#000 50%, transparent 58%, transparent); }
+  59% {
+    mask: conic-gradient(#000 51%, transparent 59%, transparent); }
+  60% {
+    mask: conic-gradient(#000 52%, transparent 60%, transparent); }
+  61% {
+    mask: conic-gradient(#000 53%, transparent 61%, transparent); }
+  62% {
+    mask: conic-gradient(#000 54%, transparent 62%, transparent); }
+  63% {
+    mask: conic-gradient(#000 55%, transparent 63%, transparent); }
+  64% {
+    mask: conic-gradient(#000 56%, transparent 64%, transparent); }
+  65% {
+    mask: conic-gradient(#000 57%, transparent 65%, transparent); }
+  66% {
+    mask: conic-gradient(#000 58%, transparent 66%, transparent); }
+  67% {
+    mask: conic-gradient(#000 59%, transparent 67%, transparent); }
+  68% {
+    mask: conic-gradient(#000 60%, transparent 68%, transparent); }
+  69% {
+    mask: conic-gradient(#000 61%, transparent 69%, transparent); }
+  70% {
+    mask: conic-gradient(#000 62%, transparent 70%, transparent); }
+  71% {
+    mask: conic-gradient(#000 63%, transparent 71%, transparent); }
+  72% {
+    mask: conic-gradient(#000 64%, transparent 72%, transparent); }
+  73% {
+    mask: conic-gradient(#000 65%, transparent 73%, transparent); }
+  74% {
+    mask: conic-gradient(#000 66%, transparent 74%, transparent); }
+  75% {
+    mask: conic-gradient(#000 67%, transparent 75%, transparent); }
+  76% {
+    mask: conic-gradient(#000 68%, transparent 76%, transparent); }
+  77% {
+    mask: conic-gradient(#000 69%, transparent 77%, transparent); }
+  78% {
+    mask: conic-gradient(#000 70%, transparent 78%, transparent); }
+  79% {
+    mask: conic-gradient(#000 71%, transparent 79%, transparent); }
+  80% {
+    mask: conic-gradient(#000 72%, transparent 80%, transparent); }
+  81% {
+    mask: conic-gradient(#000 73%, transparent 81%, transparent); }
+  82% {
+    mask: conic-gradient(#000 74%, transparent 82%, transparent); }
+  83% {
+    mask: conic-gradient(#000 75%, transparent 83%, transparent); }
+  84% {
+    mask: conic-gradient(#000 76%, transparent 84%, transparent); }
+  85% {
+    mask: conic-gradient(#000 77%, transparent 85%, transparent); }
+  86% {
+    mask: conic-gradient(#000 78%, transparent 86%, transparent); }
+  87% {
+    mask: conic-gradient(#000 79%, transparent 87%, transparent); }
+  88% {
+    mask: conic-gradient(#000 80%, transparent 88%, transparent); }
+  89% {
+    mask: conic-gradient(#000 81%, transparent 89%, transparent); }
+  90% {
+    mask: conic-gradient(#000 82%, transparent 90%, transparent); }
+  91% {
+    mask: conic-gradient(#000 83%, transparent 91%, transparent); }
+  92% {
+    mask: conic-gradient(#000 84%, transparent 92%, transparent); }
+  93% {
+    mask: conic-gradient(#000 85%, transparent 93%, transparent); }
+  94% {
+    mask: conic-gradient(#000 86%, transparent 94%, transparent); }
+  95% {
+    mask: conic-gradient(#000 87%, transparent 95%, transparent); }
+  96% {
+    mask: conic-gradient(#000 88%, transparent 96%, transparent); }
+  97% {
+    mask: conic-gradient(#000 89%, transparent 97%, transparent); }
+  98% {
+    mask: conic-gradient(#000 90%, transparent 98%, transparent); }
+  99% {
+    mask: conic-gradient(#000 91%, transparent 99%, transparent); }
+  100% {
+    mask: conic-gradient(#000 92%, transparent 100%, transparent); } }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoia2V5Zi5jc3MiLCJzb3VyY2VzIjpbImtleWYuc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvL+a8uOWxpO+8miDlhYPntKDpgY7loLTmlYjmnpzvvIxkaXblhYPntKDvvIzlj6/lgZrmiJDpm7fpgZTmjoPmj4/lnJbvvIzlnJPppIXlnJZcclxuZGl2IHtcclxuICAgIG1hcmdpbjogYXV0bztcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIHdpZHRoOiAzMHZ3O1xyXG4gICAgaGVpZ2h0OiA3MHZoO1xyXG4gICAgLy8gYmFja2dyb3VuZDogdXJsKGh0dHBzOi8vc3MwLmJkc3RhdGljLmNvbS83MGNGdkhTaF9RMVlueEdrcG9XSzFIRjZoaHkvaXQvdT0yMTI4NDgwNzY4LDM2NDUyMDQyNzYmZm09MjYmZ3A9MC5qcGcpIG5vLXJlcGVhdDtcclxuICAgIC8vIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgICBcclxuICAgICY6OmJlZm9yZSB7XHJcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgICAgIGNvbnRlbnQ6IFwiXCI7XHJcbiAgICAgICAgdG9wOiAwO2xlZnQ6IDA7IHJpZ2h0OiAwO2JvdHRvbTogMDtcclxuICAgICAgICBiYWNrZ3JvdW5kOiB1cmwoaHR0cHM6Ly9zczAuYmRzdGF0aWMuY29tLzcwY0Z2SFNoX1ExWW54R2twb1dLMUhGNmhoeS9pdC91PTE4Nzc2MjUwMDYsMjM0MTE2MjA4NiZmbT0yNiZncD0wLmpwZykgbm8tcmVwZWF0O1xyXG4gICAgICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgICAgICAgLy8gbWFzazogY29uaWMtZ3JhZGllbnQoIzAwMCAwJSwgdHJhbnNwYXJlbnQgMSUpO1xyXG4gICAgICAgIHotaW5kZXg6IDE7XHJcbiAgICAgICAgYW5pbWF0aW9uOiBtYXNrUm90YXRlIDEuMnMgbGluZWFyO1xyXG4gICAgfVxyXG59XHJcblxyXG5Aa2V5ZnJhbWVzIG1hc2tSb3RhdGUge1xyXG4gICAgQGZvciAkaSBmcm9tIDAgdGhyb3VnaCAxMDAgeyBcclxuICAgICAgICAjeyRpfSUge1xyXG4gICAgICAgICAgICBtYXNrOiBjb25pYy1ncmFkaWVudCgjMDAwICN7JGkgLSA4ICsgJyUnfSwgdHJhbnNwYXJlbnQgI3skaSArICclJ30sIHRyYW5zcGFyZW50KTtcclxuICAgICAgICB9XHJcbiAgICB9XHJcbn0iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0EsQUFBQSxHQUFHLENBQUM7RUFDQSxNQUFNLEVBQUUsSUFBSTtFQUNaLFFBQVEsRUFBRSxRQUFRO0VBQ2xCLEtBQUssRUFBRSxJQUFJO0VBQ1gsTUFBTSxFQUFFLElBQUksR0FjZjtFQWxCRCxBQVFJLEdBUkQsQUFRRSxRQUFRLENBQUM7SUFDTixRQUFRLEVBQUUsUUFBUTtJQUNsQixPQUFPLEVBQUUsRUFBRTtJQUNYLEdBQUcsRUFBRSxDQUFDO0lBQUMsSUFBSSxFQUFFLENBQUM7SUFBRSxLQUFLLEVBQUUsQ0FBQztJQUFDLE1BQU0sRUFBRSxDQUFDO0lBQ2xDLFVBQVUsRUFBRSxtR0FBbUcsQ0FBQyxTQUFTO0lBQ3pILGVBQWUsRUFBRSxLQUFLO0lBRXRCLE9BQU8sRUFBRSxDQUFDO0lBQ1YsU0FBUyxFQUFFLHNCQUFzQixHQUNwQzs7QUFHTCxVQUFVLENBQVYsVUFBVTtFQUVGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUsb0RBQTBFO0VBRHBGLEVBQUU7SUFDRSxJQUFJLEVBQUUsb0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUscURBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLEdBQUc7SUFDQyxJQUFJLEVBQUUsc0RBQTBFO0VBRHBGLElBQUk7SUFDQSxJQUFJLEVBQUUsdURBQTBFIn0= */
